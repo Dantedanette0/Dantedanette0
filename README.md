@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alireza Shahbazpour</h1>
 <h3 align="center">Learning to Code, One Project at a Time</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Cloud development with AWS**
 
 - 📫 How to reach me **carminedante@yahoo.com**
 
